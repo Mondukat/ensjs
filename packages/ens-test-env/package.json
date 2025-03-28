@@ -24,7 +24,7 @@
     "js-yaml": "^4.1.0",
     "lz4": "^0.6.5",
     "progress-stream": "^2.0.0",
-    "tar-fs": "^2.1.1",
+    "tar-fs": "^2.1.2",
     "wait-on": "^6.0.1"
   },
   "preferUnplugged": true,
